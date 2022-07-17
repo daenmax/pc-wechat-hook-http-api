@@ -26,6 +26,9 @@ DaenWxHook是DLL，可以直接注入到微信中，提供HTTPAPI接口，不同
 ### 接口
 ![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/347791/image-preview)
 
+### 其他
+支持文本代码，多人艾特，emoji表情，微信表情等，全面解决UTF-8字符显示问题。
+
 ## 交流
 我的QQ：1330166564
 QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
