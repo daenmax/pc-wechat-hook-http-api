@@ -33,3 +33,7 @@ DaenWxHook是DLL，可以直接注入到微信中，提供HTTPAPI接口，不同
 我的QQ：1330166564
 QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
 ![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/347548/image-preview)
+
+## 感谢
+
+感谢Aixed QQ364831018的资料和指导
