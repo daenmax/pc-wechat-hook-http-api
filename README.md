@@ -17,6 +17,15 @@ DaenWxHook是DLL，可以直接注入到微信中，提供HTTPAPI接口，不同
 
 千寻微信框架是基于DaenWxHook开发的（当然您也可以自己开发一个框架），集中管理所有的微信，二次封装了DaenWxHook的HTTPAPI接口，您只需要调用千寻微信框架提供的HTTPAPI接口，即可实现控制所有的微信。
 
+## 实现
+
+### 事件
+
+账号变动事件、收到群聊消息、收到私聊消息、自己发出消息、转账事件、撤回事件、好友请求、群聊邀请、支付事件等
+
+### 接口
+![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/347791/image-preview)
+
 #### 交流
 我的QQ：1330166564
 QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
