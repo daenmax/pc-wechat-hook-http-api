@@ -1,37 +1,20 @@
 # PC微信HookHttpApi
 
 #### 介绍
-免费的微信HOOK，提供HTTPAPI接口和封装好的框架，微信版本为3.6.0.18
+免费的微信HOOK和框架，提供HTTPAPI接口和封装好的框架，微信版本为3.6.0.18
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+本文档旨在让您更方便的学习和使用DaenWxHook和千寻微信框架
+您可以使用原生的`DaenWxHook`，也可以使用封装过的`千寻微信框架`
 
-#### 参与贡献
+一般来说，您只需要使用其中一个即可。
+区别：
+DaenWxHook是DLL，可以直接注入到微信中，提供HTTPAPI接口，不同的语言，难点在于注入的方式，而且每个微信都必须使用不同的端口，不方便管理和调用，所以特别提供了千寻微信框架。
+千寻微信框架是基于DaenWxHook开发的（当然您也可以自己开发一个框架），集中管理所有的微信，二次封装了DaenWxHook的HTTPAPI接口，您只需要调用千寻微信框架提供的HTTPAPI接口，即可实现控制所有的微信。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 交流
+我的QQ：1330166564
+QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
+![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/347548/image-preview)
