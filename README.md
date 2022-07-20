@@ -19,6 +19,10 @@
 
 `千寻微信框架`是基于DaenWxHook开发的（当然您也可以自己开发一个框架），集中管理所有的微信，二次封装了DaenWxHook的HTTPAPI接口，您只需要调用千寻微信框架提供的HTTPAPI接口，即可实现控制所有的微信。
 
+
+## 接口文档
+https://www.apifox.cn/apidoc/project-1222856/
+
 ## 3.6.0.18版本微信下载
 https://pan.quark.cn/s/eee03fdec56e
 
