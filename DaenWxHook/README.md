@@ -112,6 +112,11 @@ D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3121
 
 > 自定义标识，无特殊含义
 
+
+#### tcp
+
+> 建议留空，如果不为空，那么将尝试连接TCP，并发送自身port
+
 ### 示例
 
 `callBackUrl=http://localhost:8089/wechat/&port=8055&imgData=C:\Users\xxx\Documents\DaenWxHookImg&timeOut=5000&autoLogin=0&wxData=D:\Program Files\微信数据&flag=ABCD`
