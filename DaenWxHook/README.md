@@ -128,6 +128,10 @@ D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3121
 
 > 是否解密图片，0=不解密，1=解密
 
+#### noHandleMsg
+
+> 忽略刚登录成功后多少秒内的消息，默认为0
+
 ### 示例
 
 `callBackUrl=http://localhost:8089/wechat/&port=8055&imgData=C:\Users\xxx\Documents\DaenWxHookImg&timeOut=5000&autoLogin=0&wxData=D:\Program Files\微信数据&flag=ABCD`
