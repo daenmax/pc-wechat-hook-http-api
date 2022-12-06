@@ -15,7 +15,7 @@
 
 框架同样提供了HTTPAPI，来方便您使用自己喜好的编程语言接入千寻微信框架
 
-开发文档https://www.apifox.cn/apidoc/project-1222856/doc-1095008
+开发文档https://gitee.com/qxvxhook/pc-vx-hook-http-api/wikis/vxhook
 
 ## 实现
 
