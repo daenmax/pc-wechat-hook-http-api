@@ -21,7 +21,7 @@
 
 
 ## 接口文档
-https://www.apifox.cn/apidoc/project-1222856/
+https://gitee.com/qxvxhook/pc-vx-hook-http-api/wikis/vxhook
 
 ## 3.6.0.18版本微信下载
 https://pan.quark.cn/s/eee03fdec56e
@@ -76,7 +76,6 @@ https://pan.quark.cn/s/eee03fdec56e
 
 ## 交流
 
-作者Daen QQ：1330166564
 
 QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
 
