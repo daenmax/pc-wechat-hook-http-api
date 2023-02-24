@@ -78,6 +78,8 @@ https://pan.quark.cn/s/eee03fdec56e
 
 QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
 
+需要更多功能请查看文档https://www.showdoc.com.cn/ebaiwl
+
 ## 感谢
 
 感谢Aixed QQ364831018的资料和指导
