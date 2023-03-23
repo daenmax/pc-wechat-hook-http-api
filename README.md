@@ -24,7 +24,7 @@
 https://gitee.com/qxvxhook/pc-vx-hook-http-api/wikis/vxhook
 
 ## 3.6.0.18版本微信下载
-https://pan.quark.cn/s/eee03fdec56e
+https://www.123pan.com/s/HtlbVv-tAf93.html
 
 ## 实现
 
