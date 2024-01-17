@@ -15,7 +15,7 @@
 
 框架同样提供了HTTPAPI，来方便您使用自己喜好的编程语言接入千寻微信框架
 
-开发文档https://gitee.com/qxvxhook/pc-vx-hook-http-api/wikis/vxhook
+开发文档请联系Daen QQ1330166564
 
 ## 实现
 
@@ -82,9 +82,7 @@
 
 > 微信的数据目录，最后要带斜杠，在设置中可以看到
 > 不用管输入框里是多少，我这里改过，跟默认的不一样
-> ![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/348160/image-preview)
 > 直接点击"打开文件夹"，会弹出文件夹，复制地址栏
-![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/348159/image-preview)
-D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3121
+D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3222
 我们只需要填写"WeChat Files"前面的部分，即
 > 那我就需要填写为D:\Program Files\微信数据\

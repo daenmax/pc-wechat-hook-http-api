@@ -20,6 +20,10 @@
 PC 3.6.0.18
 `如果你已经安装了其他版本，不用卸载，直接下载3.6.0.18的安装包，覆盖更新即可，聊天记录不会丢失`
 
+## 接口稳定
+
+开发文档请联系Daen QQ1330166564
+
 ## 实现
 
 ### 事件
@@ -108,9 +112,7 @@ HOOK启动后，监听的是0.0.0.0，即如果你的机器有公网，那么支
 
 > 微信的数据目录，最后要带斜杠，在设置中可以看到
 > 不用管输入框里是多少，我这里改过，跟默认的不一样
-> ![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/348160/image-preview)
 > 直接点击"打开文件夹"，会弹出文件夹，复制地址栏
-![image.png](https://api.apifox.cn/api/v1/projects/1222856/resources/348159/image-preview)
 D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3121
 我们只需要填写"WeChat Files"前面的部分，即
 > 那我就需要填写为D:\Program Files\微信数据\

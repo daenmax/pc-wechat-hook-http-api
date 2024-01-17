@@ -21,7 +21,8 @@
 
 
 ## 接口文档
-https://gitee.com/qxvxhook/pc-vx-hook-http-api/wikis/vxhook
+
+开发文档请联系Daen QQ1330166564
 
 ## 3.6.0.18版本微信下载
 https://www.123pan.com/s/HtlbVv-tAf93.html
@@ -74,19 +75,14 @@ https://www.123pan.com/s/HtlbVv-tAf93.html
 - [x] 下载文件
 
 
-## 交流
-
-QQ交流群：[62476489](https://jq.qq.com/?_wv=1027&k=h5u680to)
-
-需要更多功能请查看文档https://www.showdoc.com.cn/ebaiwl
-
 ## 感谢
 
 感谢Aixed的资料和指导
 
 ## 预览
+
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348154/image-preview)
-![输入图片说明](%E5%8D%83%E5%AF%BB%E6%A1%86%E6%9E%B6/2B80BC4E1D8AE642D64104ED21730034.jpg)
+![img](https://api.apifox.com/api/v1/projects/3618667/resources/419018/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348156/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348157/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348158/image-preview)
