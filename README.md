@@ -22,6 +22,8 @@
 
 ## 接口文档
 
+![img](https://ncstatic.clewm.net/free/2024/0221/09/bdd24dd2a7de494e2198cb32dd22b46b.png)
+
 开发文档中包括 千寻微信框架、DaenWxHook的完整开发HTTP接口文档
 
 需要开发文档请联系Daen QQ1330166564
@@ -96,7 +98,7 @@ https://www.123pan.com/s/HtlbVv-tAf93.html
 ## 预览
 
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348154/image-preview)
-![img](https://api.apifox.com/api/v1/projects/3618667/resources/419018/image-preview)
+![img](https://api.apifox.cn/api/v1/projects/467052/resources/419018/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348156/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348157/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348158/image-preview)
