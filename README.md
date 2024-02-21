@@ -48,6 +48,7 @@ https://www.123pan.com/s/HtlbVv-tAf93.html
 - [x] 收到私聊消息
 - [x] 自己发出消息
 - [x] 转账事件
+- [x] 二维码收款事件
 - [x] 撤回事件
 - [x] 好友请求
 - [x] 群聊邀请
@@ -85,6 +86,7 @@ https://www.123pan.com/s/HtlbVv-tAf93.html
 - [x] 获取登录二维码
 - [x] 访问图片
 - [x] 下载文件
+- [x] 获取朋友圈数据
 
 
 ## 感谢
