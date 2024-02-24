@@ -22,7 +22,7 @@
 
 ## 接口文档
 
-![img](https://ncstatic.clewm.net/free/2024/0221/09/bdd24dd2a7de494e2198cb32dd22b46b.png)
+![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed837865d97232af27a.png)
 
 开发文档中包括 千寻微信框架、DaenWxHook的完整开发HTTP接口文档
 
