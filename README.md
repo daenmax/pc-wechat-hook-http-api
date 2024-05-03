@@ -76,4 +76,4 @@ https://www.123pan.com/s/vWtUVv-whDn3.html
 ![img](https://api.apifox.cn/api/v1/projects/467052/resources/419018/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348156/image-preview)
 ![img](https://www.apifox.cn/api/v1/projects/467052/resources/348157/image-preview)
-![img](https://www.apifox.com/api/v1/projects/3618667/resources/438020/image-preview)
+![img](https://www.apifox.com/api/v1/projects/646981/resources/438082/image-preview)
