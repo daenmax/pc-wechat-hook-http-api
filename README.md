@@ -22,7 +22,7 @@
 
 ## 接口文档
 
-![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed837865d97232af27a.png)
+![](https://img.cdn.apipost.cn/client/user/0/avatar/e36ff15a696e21e826f67adacbffeb7a663c2cf89cf0b.png)
 
 开发文档中包括 千寻微信框架、DaenWxHook的完整开发HTTP接口文档
 
@@ -55,6 +55,7 @@ https://www.123pan.com/s/vWtUVv-whDn3.html
 - [x] 获取微信列表
 - [x] 微信状态检测
 - [x] 发送文本消息
+- [x] 发送表情图片
 - [x] 获取个人信息
 - [x] 查询对象信息
 - [x] 获取好友列表
@@ -66,6 +67,7 @@ https://www.123pan.com/s/vWtUVv-whDn3.html
 - [x] 发送本地文件
 - [x] 删除好友
 - [x] 修改对象备注
+- [x] 修改微信版本号
 - [x] 访问图片
 - [x] 下载文件
 
