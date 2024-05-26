@@ -53,7 +53,7 @@
 
 
 ## 3.9.9.34版本微信下载
-https://www.123pan.com/s/vWtUVv-whDn3.html
+https://pan.baidu.com/s/1dQJd7wpkAPCd-rRU7vG4nA?pwd=aicz
 
 ## 实现
 
