@@ -25,66 +25,15 @@ https://gitee.com/daenmax/pc-wechat-hook-http-api
 HOOK启动后，监听的是0.0.0.0，即如果你的机器有公网，那么支持公网直接访问。
 路由为：/DaenWxHook/client/
 
-## 进程启动参数
+## 注入
 
-在注入时，提供以下参数可选，每个参数非必填，仅供自定义使用，因为不填写的话，也不影响使用，因为每个参数都有默认值
-每个参数之间用&分隔开
-具体可配置的参数如下
+你有`3`种注入方式，在注入之前，你首先需要学习一下配置参数
+配置参数是一段json，里面包含了以下参数
 
-#### callBackUrl
+1.使用千寻微信框架
 
-> 微信收到事件将推送到你的服务地址上，POST方式，详情见【回调事件】章节
-> 如果不填，那将不会做任何推送
+2.使用version劫持注入
 
-#### port
+3.使用Daen微信注入器
 
-> 此目录下微信Hook使用的TCP端口
-> 默认值为8055
-> 启动两个及以上时，务必传此参数，否则将会发生端口被占用导致启动失败
-
-#### imgData
-
-> 收到微信图片的保存文件夹，最后要带斜杠
-> 默认值为C:\Users\xxx\Documents\DaenWxHookImg即位于 我的文档 中的DaenWxHookImg文件夹
-
-#### timeOut
-
-> 图片下载超时时间，单位毫秒，因为解密图片需要先下载好图片才可以进行解密
-> 默认值为5000
-
-#### autoLogin
-
-> 是否自动点击 登录/进入微信 按钮，实验性功能
-> 1=开启，0=不开启
-> 默认值为0
-
-#### wxData
-
-> 微信的数据目录，最后要带斜杠，在设置中可以看到
-> 点击"打开文件夹"，会弹出文件夹，复制地址栏
-D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3121
-我们只需要填写"WeChat Files"前面的部分，即
-> 那我就需要填写为D:\Program Files\微信数据\
-
-
-#### flag
-
-> 自定义标识，无特殊含义
-
-
-#### tcp
-
-> 建议留空，如果不为空，那么将尝试连接TCP，并发送自身port
-
-#### decryptImg
-
-> 是否解密图片，0=不解密，1=解密
-
-#### noHandleMsg
-
-> 忽略刚登录成功后多少秒内的消息，默认为0
-
-
-### 示例
-
-`callBackUrl=http://localhost:8089/wechat/&port=8055&imgData=C:\Users\xxx\Documents\DaenWxHookImg&timeOut=5000&autoLogin=0&wxData=D:\Program Files\微信数据&flag=ABCD`
+详细参数和教程请参考开发文档
