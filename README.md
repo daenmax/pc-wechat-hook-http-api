@@ -69,8 +69,7 @@ https://pan.baidu.com/s/1dQJd7wpkAPCd-rRU7vG4nA?pwd=aicz
 - [x] 删除好友
 - [x] 修改对象备注
 - [x] 修改微信版本号
-- [x] 访问图片
-- [x] 下载文件
+- [x] 下载文件/图片
 
 
 ## 预览

@@ -22,14 +22,3 @@ https://gitee.com/daenmax/pc-wechat-hook-http-api/
 2.打开config/config.ini
 3.修改[system]节点下的`监听端口`和`TCP监听端口`，和其他框架文件夹里的不重复即可
 4.保存，启动框架即可
-
-## 框架设置怎么填写
-
-#### 微信数据目录
-
-> 微信的数据目录，最后要带斜杠，在设置中可以看到
-> 不用管输入框里是多少，我这里改过，跟默认的不一样
-> 直接点击"打开文件夹"，会弹出文件夹，复制地址栏
-D:\Program Files\微信数据\WeChat Files\wxid_3sq4tklb6c3121
-我们只需要填写"WeChat Files"前面的部分，即
-> 那我就需要填写为D:\Program Files\微信数据\
