@@ -1,9 +1,13 @@
 # PC微信HookHttpApi
 
 ## 介绍
-免费开源的微信HOOK和框架，提供HTTPAPI接口和封装好的框架，微信版本为3.9.9.34，内置HTTPAPI，方便您使用自己喜欢的编程语言快速开发。
+免费开源的微信HOOK和框架，提供HTTPAPI接口和封装好的框架，支持微信版本为3.9.9.34、3.6.0.18。内置HTTPAPI，方便您使用自己喜欢的编程语言快速开发。
 支持文本代码，多人艾特，emoji表情，微信表情等，全面解决收发消息、昵称内的emoji表情等特殊字符显示问题。
 
+## 支持微信版本选择
+[3.9.9.34](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/39934/)（当前版本）
+
+[3.6.0.18](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/36018/)
 
 ## 使用说明
 
