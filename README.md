@@ -88,7 +88,7 @@ https://pan.baidu.com/s/1dQJd7wpkAPCd-rRU7vG4nA?pwd=aicz
 
 
 ## 预览
-
+截图是老图，仅供预览，
 ![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f6d0c60e76.png)
 ![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f6d16d339b.png)
 ![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f71d265bda.png)
