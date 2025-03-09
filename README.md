@@ -1,35 +1,84 @@
-# PC微信HookHttpApi
+# git开源免费版
 
-## 介绍
-免费开源的微信HOOK和框架，提供HTTPAPI接口和封装好的框架，支持微信版本为`3.9.10.16`、`3.9.9.34`、`3.6.0.18`。内置HTTPAPI、WebSocket，方便您使用自己喜欢的编程语言快速开发。
-支持versioin方式注入，更方便快捷。支持文本代码，多人艾特，emoji表情，微信表情等，全面解决收发消息、昵称内的emoji表情等特殊字符显示问题。
+当前分支是免费开源的微信HOOK和框架，提供HTTPAPI接口和封装好的框架。
 
-## 支持微信版本选择
+内置HTTPAPI、WebSocket，方便您使用自己喜欢的编程语言快速开发。
+
+支持version方式注入，更方便快捷。支持文本代码，多人艾特，emoji表情，微信表情等，全面解决收发消息、昵称内的emoji表情等特殊字符显示问题。
+
+## 🎉 版本区别
+
+您当前正在浏览的为`git开源免费版`，推荐使用`Pro付费版本`
+
+### Pro付费版本
+
+https://qxpro.apifox.cn/
+
+### git开源免费版
+
+gitee码云
+https://gitee.com/daenmax/pc-wechat-hook-http-api/
+
+github
+https://github.com/daenmax/pc-wechat-hook-http-api/
+
+| 比较项       | git开源免费版 | Pro付费版本     |
+|-----------|----------|-------------|
+| 开发文档      | 一次性收费200 | 免费          |
+| 官方交流社群    | ❌无       | ✅有          |
+| 微信版本更新迭代  | ❌滞后      | ✅积极更新       |
+| API接口数量   | ❌少       | ✅多，丰富       |
+| 回调事件数量    | ❌少       | ✅多，丰富       |
+| 防封逻辑      | ✅一般      | ✅深度防检测      |
+| HTTP      | ✅有       | ✅有 |
+| WebSocket | ❌只有正向    | ✅正向、反向、更多功能 |
+| 框架emoji显示 | ❌不支持     | ✅全面支持       |
+| 自动重登      | ❌不支持     | ✅支持         |
+| 技术支持      | ❌无       | ✅有          |
+| 疑问解答      | ❌无       | ✅有          |
+
+## 🎉 支持的微信版本
+
 [3.9.10.16](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/391016/)（当前分支）
 
 [3.9.9.34](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/39934/)
 
 [3.6.0.18](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/36018/)
 
-## 使用说明
+## 🎉 快速开始
 
-本文档旨在让您更方便的学习和使用DaenWxHook和千寻微信框架
-您可以使用原生的`DaenWxHook`，也可以使用封装过的`千寻微信框架`
+### 1.安装指定版本微信
 
-一般来说，您只需要使用其中一个即可。
+微信安装包下载
+https://pan.baidu.com/s/1dQJd7wpkAPCd-rRU7vG4nA?pwd=aicz
 
-`各自的使用文档请进入相应的目录查看Readme.md`
+### 2.使用千寻微信框架
 
-## 区别
+1. 启动框架
+   双击千寻微信框架.exe运行
+2. 设置框架
 
-`DaenWxHook`是DLL，可以直接注入到微信中，提供HTTPAPI接口，不同的语言，难点在于注入的方式，而且每个微信都必须使用不同的端口，不方便管理和调用，所以特别提供了千寻微信框架。
+   (1) 点击框架设置，在微信设置分组中，设置好微信安装目录和数据缓存目录，如果不会设置，请将鼠标箭头移动到蓝色问号image.png上查看提示即可
 
-`千寻微信框架`是基于DaenWxHook开发的（当然您也可以自己开发一个框架），集中管理所有的微信，二次封装了DaenWxHook的HTTPAPI接口，提供WebSocket，您只需要调用千寻微信框架提供的HTTPAPI、WebSocket接口，即可实现控制所有的微信。
+   (2) 在HOOK设置分组中，选择你使用的PC微信版本
 
+   (3) 点击保存修改按钮
+3. 添加微信
+   点击微信管理，右键鼠标添加微信，随机端口或者指定端口，然后登录微信即可
+4. 开始开发
 
-## 接口文档
+   (1) 自己使用易语言SDK开发插件或者使用别人分享的插件，在插件管理右键添加
 
-![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f6b977c2d7.png)
+   (2) 使用HTTP API或者WebSocket接入开发
+
+### 3.不使用千寻微信框架，而是直接使用DLL（进阶）
+
+请参见`开发文档`内的讲解和教程
+
+## 🎉 接口文档（开发文档）
+
+![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed837867cd0376913ed.png)
+
 
 开发文档中包括 千寻微信框架、DaenWxHook的完整开发HTTP、WebSocket接口文档、包含注入器教程、version注入教程
 
@@ -37,17 +86,9 @@
 
 需要开发文档请联系Daen QQ1330166564
 
-（开发文档收费200元，QQ好友列表3000满了上限了，请您确认要购买再加我好友，精力有限，仅向购买了开发文档的客户提供技术支持）
+**🔖 开发文档一次性收费200元，QQ好友列表3000满了上限了，请您确认要购买再加我好友，精力有限，仅向购买了开发文档的客户提供技术支持**
 
-（开发文档收费200元，QQ好友列表3000满了上限了，请您确认要购买再加我好友，精力有限，仅向购买了开发文档的客户提供技术支持）
-
-（开发文档收费200元，QQ好友列表3000满了上限了，请您确认要购买再加我好友，精力有限，仅向购买了开发文档的客户提供技术支持）
-
-
-## 微信安装包下载
-https://pan.baidu.com/s/1dQJd7wpkAPCd-rRU7vG4nA?pwd=aicz
-
-## 实现
+## 🎉 实现
 
 ### 事件
 
@@ -86,9 +127,9 @@ https://pan.baidu.com/s/1dQJd7wpkAPCd-rRU7vG4nA?pwd=aicz
 - [x] 获取群成员列表
 - [x] 获取群成员昵称
 
+## 🎉 预览
 
-## 预览
-截图是老图，仅供预览，
+截图是旧版本截图，仅供预览，
 ![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f6d0c60e76.png)
 ![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f6d16d339b.png)
 ![](https://img.cdn.apipost.cn/client/user/0/avatar/748dd95d0520f728a75156a010ed8378667f71d265bda.png)

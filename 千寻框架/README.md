@@ -6,9 +6,16 @@
 > 因为完全本地，没有接入版本控制，所以更新需要手动下载覆盖更新
 
 ## 框架和SDK下载
+gitee码云
 https://gitee.com/daenmax/pc-wechat-hook-http-api/
+
+github
+https://github.com/daenmax/pc-wechat-hook-http-api/
 
 ## HTTPAPI
 
 框架同样提供了HTTPAPI、WebSocket，来方便您使用自己喜好的编程语言接入千寻微信框架
+
 开发文档请联系Daen QQ1330166564
+
+**🔖 开发文档一次性收费200元，QQ好友列表3000满了上限了，请您确认要购买再加我好友，精力有限，仅向购买了开发文档的客户提供技术支持**
