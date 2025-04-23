@@ -49,12 +49,22 @@
 
 ## 🎉 支持的微信版本
 
-[3.9.10.16](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/391016/)（当前分支）
+---
+[3.9.10.16（Gitee码云）](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/391016/)（当前分支）
 
-[3.9.9.34](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/39934/)
+[3.9.10.16（GitHub）](https://github.com/daenmax/pc-wechat-hook-http-api/tree/391016/)（当前分支）
 
-[3.6.0.18](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/36018/)
+---
+[3.9.9.34（Gitee码云）](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/39934/)
 
+[3.9.9.34（GitHub）](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/39934/)
+
+---
+[3.6.0.18（Gitee码云）](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/36018/)（开源）
+
+[3.6.0.18（GitHub）](https://gitee.com/daenmax/pc-wechat-hook-http-api/tree/36018/)（开源）
+
+---
 ## 🎉 快速开始
 
 ### 1.安装指定版本微信
