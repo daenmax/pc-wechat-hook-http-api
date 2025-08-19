@@ -5,7 +5,7 @@
 
 您当前正在浏览的页面为`git开源免费版`，继续往下翻可以看到`git开源免费版`所拥有的接口和事件
 
-`Pro付费版本`的价格、付费方式、所拥有的接口和事件 请前往[官网](https://www.cnblogs.com/daen/p/19023995)查看，支持试用，也请查看官网
+`Pro付费版本`的价格、付费方式、所拥有的接口和事件 请前往[官网](https://www.cnblogs.com/daen/p/-/qxpro)查看，支持试用，也请查看官网
 
 🏷️🏷️🏷️对于两个版本的区别，我写的已经很明白很清楚了，请**不要**加我QQ好友问我一些**无意义的问题**，例如：
 
@@ -21,7 +21,7 @@
 
 | 比较项       | git开源免费版                                                                                                                  | Pro付费版本                                       |
 |-----------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 官网        | gitee码云 https://gitee.com/daenmax/pc-wechat-hook-http-api/<br/>github https://github.com/daenmax/pc-wechat-hook-http-api/ | https://www.cnblogs.com/daen/p/19023995                      |
+| 官网        | gitee码云 https://gitee.com/daenmax/pc-wechat-hook-http-api/<br/>github https://github.com/daenmax/pc-wechat-hook-http-api/ | https://www.cnblogs.com/daen/p/-/qxpro                      |
 | 授权付费方式    | 免费                                                                                                                        | 按微信账号授权付费，具体付费方式、价格等 请查看上面👆的官网链接（支持试用，请查看官网） |
 | 开发文档      | ❌一次性收费200                                                                                                                 | ✅免费                                           |
 | 官方交流社群    | ❌无                                                                                                                        | ✅有                                            |
